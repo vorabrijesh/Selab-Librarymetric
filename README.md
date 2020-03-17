@@ -10,7 +10,7 @@ Software Enginnering Lab 2020
 For now, we have done comparsion just for javascript library
 
 ## How to setup database.
-- In the database folder, it contains exported data in csv,json,sql and doc format. 
+- In the database folder, it contains exported data in csv, json, sql and doc format. 
 Import in phpmyadmin before running the tool.
 
 ## How to run
