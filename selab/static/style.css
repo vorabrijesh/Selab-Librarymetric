@@ -1,0 +1,25 @@
+.fa-thumbs-o-up,
+.fa-thumbs-o-down
+{
+	color:#6495ED;
+}
+
+.clickableIcon {
+	cursor: pointer;
+}
+
+.clickableIcon:hover {
+	color:black;
+}
+
+.fa-thumbs-o-up:hover,
+.fa-thumbs-o-down:hover
+{
+	color:blue;
+}
+
+.red
+{
+	font-size: 24px;
+    color:red;
+}
