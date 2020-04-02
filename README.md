@@ -6,9 +6,12 @@ Software Enginnering Lab 2020
 - Vora Brijesh 
 - Nitesh Kumar 
 - Mithlesh Kumar
-- Sarah Nadi professor at ualberta
 
 This project is extention to the work done by Professor Sarah Nadi at University of Alberta:
+
+The PROMISE2018 repository contains a script for each of their 9 metrics presented in their paper An Empirical Study of Metric-based Comparisons of Software Libraries, which can be found [here](https://dl.dropboxusercontent.com/s/v5hdbnywsycvt1q/LopezDeLaMoraPROMISE18.pdf). 
+
+Link to their Repo:
 
   https://github.com/ualberta-smr/LibraryMetricScripts/tree/promise18
   
