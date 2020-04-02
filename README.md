@@ -6,7 +6,14 @@ Software Enginnering Lab 2020
 - Vora Brijesh 
 - Nitesh Kumar 
 - Mithlesh Kumar
+- Sarah Nadi professor at ualberta
 
+This project is extention to the work done by Professor Sarah Nadi at University of Alberta:
+
+  https://github.com/ualberta-smr/LibraryMetricScripts/tree/promise18
+  https://github.com/ualberta-smr/LibraryMetricScripts
+  
+ 
 For now, we have done comparsion just for javascript library
 
 ## How to setup database.
