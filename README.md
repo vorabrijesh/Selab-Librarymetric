@@ -25,3 +25,7 @@ Import in phpmyadmin before running the tool.
 - Place selab folder in wamp or xamp server. 
 - Run localhost/selab/index.php in your browser.
 - selab_libmetics folder contains the scripts to extract data for comparing different libraries.
+
+
+#### Thanks To All the Contributors!
+#### Happy developing😎
