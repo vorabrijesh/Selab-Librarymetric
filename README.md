@@ -29,3 +29,6 @@ Import in phpmyadmin before running the tool.
 
 #### Thanks To All the Contributors!
 #### Happy developing😎
+
+Note:
+A special Thanks to Professor Sarah Nadi and her team for letting us use their code.
